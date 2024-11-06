@@ -23,7 +23,7 @@ pip install -r requirements.txt
 3. **Run the Script:**
 
 ```bash
-python echo360_downloader.py
+python ucl_caption.py
 ```
 
 4. **Output:**
